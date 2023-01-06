@@ -1,2 +1,7 @@
-# lista-de-tarefas-2
-Códigos em C das questões da lista de exercício! Tudo feito no curso de C Básico 👌
+# Programming task 🌩️
+
+- **Objetivo:** Fazer a lista de exercícios em C 🧠
+- **Dificuldade:** ⭐⭐⭐☆☆ (two star difficulty)
+- **Conclusão:** Switchs, Ifs e Elses 🌱
+
+- Lista ainda não finalizada...
