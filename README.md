@@ -4,4 +4,3 @@
 - **Dificuldade:** ⭐⭐⭐☆☆ (three star difficulty)
 - **Conclusão:** Switchs, Ifs e Elses 🌱
 
-- Lista ainda não finalizada...
