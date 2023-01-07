@@ -3,6 +3,9 @@
 int
 main ()
 {
+  // Objetivo: Registro de clube (sócios)
+  // Utilizei condicionais, switchs.
+  
   char opcao;
   int salario, anos;
 
