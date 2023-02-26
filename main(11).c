@@ -1,16 +1,16 @@
 #include <stdio.h>
-// Fazer um programa que leia somente numeros negativos!
+    // Fazer um programa que leia somente numeros negativos!
 int main()
 {
-    int x;
+    int numberN;
     
     printf("Digite um numero negativo: ");
-    scanf("%d", &x);
+    scanf("%d", &numberN);
     
-    if (x >= 0)
+    if (numberN >= 0)
         printf("Só aceito numeros negativos!");
-    else if (x < 0)
-        printf("Seu numero negativo: %d", x);
+    else if (numberN < 0)
+        printf("Seu numero negativo: %d", numberN);
     
     return 0;
 }
