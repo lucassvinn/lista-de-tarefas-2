@@ -10,7 +10,7 @@ int main()
     if (value < 0)
         printf("Só aceito numeros naturais!");
     else if (value >= 0)
-        printf("Seu numero natural: %d", x);
+        printf("Seu numero natural: %d", value);
     
     return 0;
 }
