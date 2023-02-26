@@ -7,6 +7,7 @@ int function(int x)
     else if (x < 0)
         printf("Seu numero negativo: %d", x);
 }
+
 int main()
 {
     int numberN, redirect;
