@@ -1,15 +1,15 @@
 #include <stdio.h>
-// Fazer um programa que leia somente numeros naturais!
+    // Fazer um programa que leia somente numeros naturais!
 int main()
 {
-    int x;
+    int value;
     
     printf("Digite um numero natural: ");
-    scanf("%d", &x);
+    scanf("%d", &value);
     
-    if (x < 0)
+    if (value < 0)
         printf("Só aceito numeros naturais!");
-    else if (x >= 0)
+    else if (value >= 0)
         printf("Seu numero natural: %d", x);
     
     return 0;
